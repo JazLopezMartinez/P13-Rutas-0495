@@ -7,7 +7,7 @@ class Pantallainicio_0495 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("PaginaInicial Lopez_0495"),
-        backgroundColor: Colors.purple,
+        backgroundColor: Colors.pink,
       ),
       body: Center(
         child: Column(

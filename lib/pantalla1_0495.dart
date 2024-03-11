@@ -7,7 +7,7 @@ class Pantalla1_0495 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Pantalla1 Lopez_0495"),
-        backgroundColor: Colors.grey,
+        backgroundColor: Colors.green,
       ),
       body: Center(
         child: Column(
